@@ -1,2 +1,2 @@
 # Learning-Python
-#Repositorio para aprender Python desde un nivel básico
+Repositorio para aprender Python desde un nivel básico
